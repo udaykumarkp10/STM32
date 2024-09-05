@@ -1,7 +1,6 @@
 /* USER CODE BEGIN Header */
 /**
-thhis is foek using
-hai from stm32
+  Hai from branch
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body

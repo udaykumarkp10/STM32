@@ -1,6 +1,6 @@
 /* USER CODE BEGIN Header */
 /**
-  Hai from branch
+  
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
